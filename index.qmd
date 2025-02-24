@@ -1,6 +1,6 @@
 ---
 title: "10mapz"
-image: file/path/to/headshot.jpeg # a great spot for your professional headshot :) 
+image: MartijnTennekes2024.jpg # a great spot for your professional headshot :) 
 toc: false # disable table of contents for this page (if applicable)
 about: 
   template: jolla 
