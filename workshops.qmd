@@ -1,0 +1,20 @@
+---
+title: "Workshops"
+---
+
+Our workshops offer focused, hands-on training in key topics related to spatial data visualization and analysis. Designed for professionals, students, and enthusiasts, these short and intensive sessions help you quickly gain new skills.
+
+### Workshop Format
+
+Workshops can be delivered on-site at your institution or remotely via Zoom or your preferred platform. Each session is designed to be highly interactive and practical, equipping you with skills you can apply immediately. Workshops include an engaging introduction, hands-on exercises, and collaborative activities to ensure an immersive learning experience.
+
+Currently, no workshops are pre-scheduled, but I am available to organize sessions based on interest. You can choose from the suggested topics below or reach out to discuss a custom workshop tailored to your needs.
+
+### Potential Workshop Topics
+
+- Getting Started with R – Learn the basics of R for data analysis and visualization.
+- Getting Started with tmap – Create beautiful and effective maps using the tmap package.
+- It's All About Colors – Master color palette selection for clear and compelling visualizations.
+- Spatial Data Exploration – Uncover patterns and insights in your spatial datasets.
+
+Interested in organizing a workshop? Contact me to discuss your needs and explore custom options!

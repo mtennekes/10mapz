@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Martijn Tennekes is a part-time freelancer, with more than 15 years experience in data exploration, analysis, and visualization. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, and the University of Oxford. Martijn is an R enthusiast and is the main author of several very popular R packages.
+
+![Martijn Tennekes](MartijnTennekes2024.jpg){fig-alt="Martijn Tennekes" fig-align="center" width="400"}
+
+Martijn is also an experienced guitar player. See more.

@@ -1,0 +1,21 @@
+---
+title: "10mapz"
+image: file/path/to/headshot.jpeg # a great spot for your professional headshot :) 
+toc: false # disable table of contents for this page (if applicable)
+about: 
+  template: jolla 
+  links: # create buttons
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/martijn-tennekes-387202125/
+      target: _blank # opens link in a new browser tab
+    - icon: github
+      text: GitHub
+      href: https://github.com/mtennekes
+      target: _blank 
+    - icon: envelope
+      text: Email
+      href: mailto:mtennekes@gmail.com
+---
+
+10Mapz: specialist in geospatial data visualization
