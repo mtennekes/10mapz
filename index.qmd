@@ -18,4 +18,6 @@ about:
       href: mailto:mtennekes@gmail.com
 ---
 
-10Mapz: specialist in geospatial data visualization
+### We love mapping!
+
+Exploring spatial data with easy-to-use tools. Analysing spatial data patterns. 

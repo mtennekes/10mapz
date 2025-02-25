@@ -2,12 +2,12 @@
 title: "Courses"
 ---
 
-10keyz Education & Consulting offers both introductory and advanced courses on spatial data exploration, analysis, and visualization.
+We provide both introductory and intermediate/advanced courses on spatial data exploration, analysis, and visualization.
 
--   Spatial data exploration, analysis, and visualization in R (scheduled 6-9 May 2025 [http://prstats.org](http://prstats.org/))
+-   Spatial data exploration, analysis, and visualization in R ( [scheduled 6-9 May 2025 at PRstats](https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/))
 
--   General data exploration with R
+-   General data exploration with R (on demand)
 
--   Introduction to data visualization
+-   Introduction to data visualization (on demand)
 
 Our courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools.

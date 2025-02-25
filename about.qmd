@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-Martijn Tennekes is a part-time freelancer, with more than 15 years experience in data exploration, analysis, and visualization. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, and the University of Oxford. Martijn is an R enthusiast and is the main author of several very popular R packages.
+Martijn Tennekes is a part-time freelancer, with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford. Martijn is the main author of several popular R packages, including [tmap](https://r-tmap.github.io/tmap/) and [cols4all](https://cols4all.github.io/cols4all-R/).
 
 ![Martijn Tennekes](MartijnTennekes2024.jpg){fig-alt="Martijn Tennekes" fig-align="center" width="400"}
 
-Martijn is also an experienced guitar player. See more.
+In his free time, Martijn enjoys playing [guitar](https://open.spotify.com/artist/1r0UM2CTI9nvqjsXN5ihNa), doing outdoor sports, and spending time with his family.

@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Blog"
 ---
 
 No blog posts yet...

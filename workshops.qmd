@@ -12,9 +12,9 @@ Currently, no workshops are pre-scheduled, but I am available to organize sessio
 
 ### Potential Workshop Topics
 
-- Getting Started with R – Learn the basics of R for data analysis and visualization.
-- Getting Started with tmap – Create beautiful and effective maps using the tmap package.
-- It's All About Colors – Master color palette selection for clear and compelling visualizations.
-- Spatial Data Exploration – Uncover patterns and insights in your spatial datasets.
+-   Getting Started with R – Learn the basics of R for data analysis and visualization.
+-   Getting Started with tmap – Create beautiful and effective maps using the tmap package.
+-   It's All About Colors – Master color palette selection for clear and compelling visualizations.
+-   Spatial Data Exploration – Uncover patterns and insights in your spatial datasets.
 
 Interested in organizing a workshop? Contact me to discuss your needs and explore custom options!
