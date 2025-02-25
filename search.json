@@ -7,11 +7,11 @@
     "text": "No blog posts yet…"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "10mapz",
     "section": "",
-    "text": "Martijn Tennekes is a part-time freelancer, with more than 15 years experience in data exploration, analysis, and visualization. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, and the University of Oxford. Martijn is an R enthusiast and is the main author of several very popular R packages.\n\n\n\nMartijn Tennekes\n\n\nMartijn is also an experienced guitar player. See more."
+    "text": "10Mapz: specialist in geospatial data visualization"
   },
   {
     "objectID": "workshops.html",
@@ -28,17 +28,17 @@
     "text": "10keyz Education & Consulting offers both introductory and advanced courses on spatial data exploration, analysis, and visualization.\n\nSpatial data exploration, analysis, and visualization in R (scheduled 6-9 May 2025 http://prstats.org)\nGeneral data exploration with R\nIntroduction to data visualization\n\nOur courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Martijn Tennekes is a part-time freelancer, with more than 15 years experience in data exploration, analysis, and visualization. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, and the University of Oxford. Martijn is an R enthusiast and is the main author of several very popular R packages.\n\n\n\nMartijn Tennekes\n\n\nMartijn is also an experienced guitar player. See more."
+  },
+  {
     "objectID": "consulting.html",
     "href": "consulting.html",
     "title": "Consultancy",
     "section": "",
     "text": "At 10keyz Education & Consulting, we specialize in transforming complex data into clear, insightful, and interactive visualizations. Our consulting services help organizations, researchers, and professionals make sense of their spatial data through advanced mapping techniques, dashboards, and data exploration tools.\n\nWhat We Offer\n\nData Visualization – Turning raw data into compelling visuals that tell a story.\nInteractive Maps – Engaging, user-friendly geographic representations tailored to your needs.\nDashboards – Custom-built analytics dashboards for real-time insights.\nData Exploration & Analysis – Uncover patterns and trends with expert-driven exploration methods.\nCustomized Solutions – Tailored approaches that fit your specific industry and project requirements.\n\n\n\nWho We Work With\nWe collaborate with businesses, government agencies, research institutions, and independent professionals seeking to leverage spatial data for better decision-making. Whether you’re working with GIS, remote sensing, or business analytics, we provide solutions that bring your data to life.\n\n\nLet’s Work Together\nHave a project in mind? Need expert guidance on spatial data visualization? Contact us to discuss how we can help turn your data into actionable insights.\n\n\n[Contact Us]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "10mapz",
-    "section": "",
-    "text": "10Mapz: specialist in geospatial data visualization"
   }
 ]
