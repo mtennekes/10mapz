@@ -9,8 +9,6 @@ website:
         text: Home
       - courses.qmd
       - consulting.qmd
-      - portfolio.qmd
-      - blog.qmd
       - about.qmd
 
 format:

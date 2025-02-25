@@ -20,4 +20,4 @@ about:
 
 ### We love mapping!
 
-Exploring spatial data with easy-to-use tools. Analysing spatial data patterns. 
+We offer expert spatial data analysis, high-quality cartography, and interactive dashboards to help you explore, understand, and communicate your data effectively.

@@ -10,6 +10,4 @@ Our services include:
 * **Cartographic Production:** We create high-quality, accurate maps suitable for publication, presentations, and reports, ensuring effective communication of your spatial information.
 * **Dashboard Design & Development:** We design and develop interactive dashboards to facilitate dynamic data exploration, analysis, and visualization, customized to your specific requirements. 
 
-Contact us to discuss your project and how we can assist in visualizing your spatial data. [Contact Us]
-
-10mapz provides spatial data visualization services for research, government, and industry. We specialize in exploratory data analysis, high-quality map production, and the development of interactive dashboards.
+Contact us to discuss your project and how we can assist in visualizing your spatial data. [Contact us](mailto:mtenenekes@gmail.com?subject=10mapz)
