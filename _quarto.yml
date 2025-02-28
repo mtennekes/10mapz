@@ -3,6 +3,7 @@ project:
 
 website:
   title: "<strong>10mapz</strong> <span class='site-subtitle'>geospatial visualization</span>"
+  favicon: 10mapz2.svg
   navbar:
     left:
       - href: index.qmd
