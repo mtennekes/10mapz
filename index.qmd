@@ -1,5 +1,5 @@
 ---
-title: "10mapz"
+title: "Home"
 image: MartijnTennekes2024.jpg # a great spot for your professional headshot :) 
 toc: false # disable table of contents for this page (if applicable)
 about: 

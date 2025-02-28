@@ -1,10 +1,11 @@
 project:
   type: website
-
+  
 website:
   title: "<strong>10mapz</strong> <span class='site-subtitle'>geospatial visualization</span>"
-  favicon: 10mapz2.svg
+  favicon: 10mapz3.svg
   navbar:
+    logo: 10mapz3.svg
     left:
       - href: index.qmd
         text: Home
