@@ -1,5 +1,6 @@
 ---
 title: "Home"
+favicon: 10mapz3_icon.ico
 image: MartijnTennekes2024.jpg # a great spot for your professional headshot :) 
 toc: false # disable table of contents for this page (if applicable)
 about: 
@@ -18,6 +19,6 @@ about:
       href: mailto:mtennekes@gmail.com
 ---
 
-### We love mapping!
-
 We offer expert spatial data analysis, high-quality cartography, and interactive dashboards to help you explore, understand, and communicate your data effectively.
+
+### We love mapping!
