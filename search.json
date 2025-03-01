@@ -18,21 +18,35 @@
     "href": "consulting.html",
     "title": "Services",
     "section": "",
-    "text": "10mapz provides spatial data visualization services for research, government, and industry. We specialize in exploratory data analysis, high-quality map production, and the development of interactive dashboards.\nOur services include:\n\nSpatial Data Analysis: We provide comprehensive analytical services to identify patterns, trends, and insights within your spatial datasets.\nCartographic Production: We create high-quality, accurate maps suitable for publication, presentations, and reports, ensuring effective communication of your spatial information.\nDashboard Design & Development: We design and develop interactive dashboards to facilitate dynamic data exploration, analysis, and visualization, customized to your specific requirements.\n\nContact us to discuss your project and how we can assist in visualizing your spatial data. Contact us"
+    "text": "10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.\nOur services include:\n\nBeautiful maps: We create high-quality, accessible maps tailored to your needs. Whether for presentations, publications, or reports, our maps are designed to communicate your spatial data effectively and with visual appeal. We focus on cartographic principles and best practices to ensure accuracy, clarity, and engagement.\nInteractive maps & dashboards: Explore your data dynamically with our interactive maps and dashboards. We develop custom solutions that allow you to zoom, pan, filter, and analyze your data in real-time. Our interactive visualizations help you uncover hidden patterns, gain new insights, and share your findings with others in an engaging way.\nExpert analysis: We offer expert support in spatial data analysis and visualization. Our team can help you with data cleaning, processing, analysis, and interpretation. We guide you through the process of turning raw data into meaningful insights and compelling visual stories.\n\nReady to visualize your data? Let’s get started!\nContact us"
   },
   {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "We provide both introductory and intermediate/advanced courses on spatial data exploration, analysis, and visualization.\n\nSpatial data exploration, analysis, and visualization in R ( scheduled 6-9 May 2025 at PRstats)\nGeneral data exploration with R (on demand)\nIntroduction to data visualization (on demand)\n\nOur courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools."
+    "text": "10mapz offers a range of courses designed to empower you with the knowledge and practical skills needed to explore, analyze, and visualize spatial data effectively. We provide both introductory and intermediate/advanced courses in two categories:\n\nData Visualization Foundations\nThese courses focus on broader concepts and techniques in data visualization and spatial analysis:\n\nIntroduction to Data Visualization: Learn the fundamental principles of effective data visualization, regardless of the tools used. (On demand)\nSpatial Data Visualization: Explore the specific techniques and considerations for visualizing spatial data, including cartographic principles and map design. (On demand)\nSpatial Data Science: Dive deeper into the world of spatial data science, covering topics like spatial analysis, geostatistics, and spatial modeling. (On demand)\n\n\n\nProgramming with R\nThese courses focus on using the R programming language for data analysis and visualization:\n\nIntroduction to R: Learn the fundamentals of R programming, including data structures, functions, and basic syntax. (On demand)\nData Visualization in R: Master the art of creating compelling visualizations in R, using packages like ggplot2. (On demand)\nSpatial Data Analysis in R: Explore and analyze spatial data using R, with a focus on techniques for mapping and spatial statistics. Scheduled 6-9 May 2025 at PRstats\n\nOur courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools and techniques.\nContact us to learn more about our courses or to discuss your training needs."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "We offer expert spatial data analysis, high-quality cartography, and interactive dashboards to help you explore, understand, and communicate your data effectively.\n\nWe love mapping!"
+    "text": "Need awesome maps? We turn your geospatial data into stunning visualizations that are perfect for exploring, analyzing, and communicating your findings."
+  },
+  {
+    "objectID": "index.html#we-love-mapping",
+    "href": "index.html#we-love-mapping",
+    "title": "Home",
+    "section": "",
+    "text": "Need awesome maps? We turn your geospatial data into stunning visualizations that are perfect for exploring, analyzing, and communicating your findings."
+  },
+  {
+    "objectID": "index.html#what-we-offer",
+    "href": "index.html#what-we-offer",
+    "title": "Home",
+    "section": "What we offer",
+    "text": "What we offer\nBeautiful maps High-quality, accessible maps for presentations, publications, and reports.\nInteractive maps & dashboards Explore your data dynamically and discover new insights.\nExpert analysis We help you understand your data through spatial analysis and visualization.\nReady to see your data come to life? Let’s make some magic!\nContact us"
   },
   {
     "objectID": "about.html",
