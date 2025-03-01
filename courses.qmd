@@ -1,13 +1,26 @@
 ---
-title: "Courses"
+title: Courses
 ---
 
-We provide both introductory and intermediate/advanced courses on spatial data exploration, analysis, and visualization.
+10mapz offers a range of courses designed to empower you with the knowledge and practical skills needed to explore, analyze, and visualize spatial data effectively.  We provide both introductory and intermediate/advanced courses in two categories:
 
--   Spatial data exploration, analysis, and visualization in R ( [scheduled 6-9 May 2025 at PRstats](https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/))
+### Data Visualization Foundations
 
--   General data exploration with R (on demand)
+These courses focus on broader concepts and techniques in data visualization and spatial analysis:
 
--   Introduction to data visualization (on demand)
+* **Introduction to Data Visualization:** Learn the fundamental principles of effective data visualization, regardless of the tools used. (On demand)
+* **Spatial Data Visualization:** Explore the specific techniques and considerations for visualizing spatial data, including cartographic principles and map design. (On demand)
+* **Spatial Data Science:** Dive deeper into the world of spatial data science, covering topics like spatial analysis, geostatistics, and spatial modeling. (On demand)
 
-Our courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools.
+
+### Programming with R
+
+These courses focus on using the R programming language for data analysis and visualization:
+
+* **Introduction to R:** Learn the fundamentals of R programming, including data structures, functions, and basic syntax. (On demand)
+* **Data Visualization in R:** Master the art of creating compelling visualizations in R, using packages like ggplot2. (On demand)
+* **Spatial Data Analysis in R:** Explore and analyze spatial data using R, with a focus on techniques for mapping and spatial statistics. [Scheduled 6-9 May 2025 at PRstats](https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/)
+
+Our courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools and techniques.
+
+[Contact us](mailto:mtenenekes@gmail.com?subject=10mapz) to learn more about our courses or to discuss your training needs.

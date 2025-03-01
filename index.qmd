@@ -19,6 +19,20 @@ about:
       href: mailto:mtennekes@gmail.com
 ---
 
-We offer expert spatial data analysis, high-quality cartography, and interactive dashboards to help you explore, understand, and communicate your data effectively.
 
-### We love mapping!
+
+## We love mapping!
+
+Need awesome maps? We turn your geospatial data into stunning visualizations that are perfect for exploring, analyzing, and communicating your findings.
+
+## What we offer
+
+**Beautiful maps** High-quality, accessible maps for presentations, publications, and reports.
+
+**Interactive maps & dashboards** Explore your data dynamically and discover new insights.
+
+**Expert analysis** We help you understand your data through spatial analysis and visualization.
+
+Ready to see your data come to life? Let's make some magic!
+
+[Contact us](mailto:mtenenekes@gmail.com?subject=10mapz)
