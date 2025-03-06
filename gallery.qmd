@@ -14,9 +14,6 @@ about:
       text: GitHub
       href: https://github.com/mtennekes
       target: _blank 
-    - text: "{{< iconify fa6-brands mastodon >}} Mastodon"
-      href: "https://fosstodon.org/@mtennekes"
-      rel: me
     - icon: envelope
       text: Email
       href: mailto:mtennekes@gmail.com
