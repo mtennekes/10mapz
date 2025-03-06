@@ -3,3 +3,8 @@
 .site-subtitle {
   color: lightgray;
 }
+
+.justify-text {
+  text-align: left;
+  text-justify: inter-word; /* For better spacing in some browsers */
+}

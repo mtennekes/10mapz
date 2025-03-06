@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - courses.qmd
-      - consulting.qmd
+      - services.qmd
+      - gallery.qmd
       - about.qmd
 
 format:

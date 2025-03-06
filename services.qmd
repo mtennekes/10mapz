@@ -1,0 +1,48 @@
+---
+title: Services
+about: 
+  template: jolla 
+  links: # create buttons
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/martijn-tennekes-387202125/
+      target: _blank # opens link in a new browser tab
+    - icon: github
+      text: GitHub
+      href: https://github.com/mtennekes
+      target: _blank 
+    - text: "{{< iconify fa6-brands mastodon >}} Mastodon"
+      href: "https://fosstodon.org/@mtennekes"
+      rel: me
+    - icon: envelope
+      text: Email
+      href: mailto:mtennekes@gmail.com
+---
+
+10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.
+
+Our services include:
+
+### Presentation & publication maps
+
+We create high-quality, accessible maps tailored to your needs. Whether for presentations, publications, or reports, our maps are designed to communicate your spatial data effectively and with visual appeal. We focus on cartographic principles and best practices to ensure accuracy, clarity, and engagement.
+
+### Interactive maps & dashboards
+
+Explore your data dynamically with our interactive maps and dashboards. We develop custom solutions that allow you to zoom, pan, filter, and analyze your data in real-time.  Our interactive visualizations help you uncover hidden patterns, gain new insights, and share your findings with others in an engaging way.
+
+### Expert analysis
+
+We offer expert support in spatial data analysis and visualization. Our team can help you with data cleaning, processing, analysis, and interpretation. We guide you through the process of turning raw data into meaningful insights and compelling visual stories.
+
+[Contact us](mailto:mtenenekes@gmail.com?subject=10mapz - services) to discuss your project and how we can help.
+
+## Training
+
+Interested in learning spatial data visualization? We offer courses and workshops to help you get started.
+
+*Visual Exploration, Analysis, and Presentation of Spatial Data using the tmap Package.* ([Scheduled 6-9 May 2025 at PRstats](https://www.prstats.org/course/visual-exploration-analysis-and-presentation-of-spatial-data-using-the-tmap-package-tmap01/))
+
+[Contact us](mailto:mtenenekes@gmail.com?subject=10mapz - training) to learn more about our courses or to discuss your training needs.
+
+

@@ -1,0 +1,43 @@
+---
+title: "Gallery"
+editor_options: 
+  chunk_output_type: console
+about: 
+  template: jolla 
+  links: # create buttons
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/martijn-tennekes-387202125/
+      target: _blank # opens link in a new browser tab
+    - icon: github
+      text: GitHub
+      href: https://github.com/mtennekes
+      target: _blank 
+    - text: "{{< iconify fa6-brands mastodon >}} Mastodon"
+      href: "https://fosstodon.org/@mtennekes"
+      rel: me
+    - icon: envelope
+      text: Email
+      href: mailto:mtennekes@gmail.com
+---
+
+## World
+
+
+![](gallery/choro_wld.png)
+
+![](gallery/dorling.png)
+
+## Africa
+
+![](gallery/choro_africa.png)
+
+### Netherlands 
+
+![](gallery/facets_choro.png)
+
+![](gallery/facets_ncont.png)
+
+![](gallery/bubble_nld.png)
+
+More examples coming soon!

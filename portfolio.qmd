@@ -1,5 +1,0 @@
----
-title: "Gallery"
----
-
-Will follow...
