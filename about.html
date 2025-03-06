@@ -34,7 +34,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -72,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,12 +96,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.html"> 
-<span class="menu-text">Courses</span></a>
+    <a class="nav-link" href="./services.html"> 
+<span class="menu-text">Services</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./consulting.html"> 
-<span class="menu-text">Services</span></a>
+    <a class="nav-link" href="./gallery.html"> 
+<span class="menu-text">Gallery</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
@@ -119,43 +118,48 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
-<p>Martijn Tennekes is a part-time freelancer, with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford. Martijn is the main author of several popular R packages, including <a href="https://r-tmap.github.io/tmap/">tmap</a> and <a href="https://cols4all.github.io/cols4all-R/">cols4all</a>.</p>
+</header><main class="content" id="quarto-document-content">
+<p>Martijn Tennekes is a part-time freelancer with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands, where he has contributed to several international research projects and served as a course leader for training programs organized by the European Commission (Eurostat).</p>
+<p>After completing his Ph.D.&nbsp;in game theory at Maastricht University in 2010, he shifted his research focus to data science, in particular, data visualization, exploratory data analysis, and geospatial data. He has also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford.</p>
+<p>Martijn is passionate about open-source software and is the main author of several popular R packages, including <a href="https://r-tmap.github.io/tmap/">tmap</a> and <a href="https://cols4all.github.io/cols4all-R/">cols4all</a>, which are widely used by researchers and data visualization professionals worldwide.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="MartijnTennekes2024.jpg" class="img-fluid figure-img" alt="Martijn Tennekes" width="400"></p>
-<figcaption>Martijn Tennekes</figcaption>
+<p><img src="MartijnTennekes2024.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Martijn Tennekes" width="400"></p>
 </figure>
 </div>
 <p>In his free time, Martijn enjoys playing <a href="https://open.spotify.com/artist/1r0UM2CTI9nvqjsXN5ihNa">guitar</a>, doing outdoor sports, and spending time with his family.</p>
 
 
-
-</main> <!-- /main -->
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://www.linkedin.com/in/martijn-tennekes-387202125/" class="about-link" rel="" target="_blank">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/mtennekes" class="about-link" rel="" target="_blank">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="https://fosstodon.org/@mtennekes" class="about-link" rel="me" target="">
+     <span class="about-link-text">{{&lt; iconify fa6-brands mastodon &gt;}} Mastodon</span>
+  </a>
+  <a href="mailto:mtennekes@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -176,13 +180,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -7,53 +7,53 @@
     "text": "No blog posts yet…"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "Will follow…"
-  },
-  {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
+    "objectID": "services.html",
+    "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.\nOur services include:\n\nBeautiful maps: We create high-quality, accessible maps tailored to your needs. Whether for presentations, publications, or reports, our maps are designed to communicate your spatial data effectively and with visual appeal. We focus on cartographic principles and best practices to ensure accuracy, clarity, and engagement.\nInteractive maps & dashboards: Explore your data dynamically with our interactive maps and dashboards. We develop custom solutions that allow you to zoom, pan, filter, and analyze your data in real-time. Our interactive visualizations help you uncover hidden patterns, gain new insights, and share your findings with others in an engaging way.\nExpert analysis: We offer expert support in spatial data analysis and visualization. Our team can help you with data cleaning, processing, analysis, and interpretation. We guide you through the process of turning raw data into meaningful insights and compelling visual stories.\n\nReady to visualize your data? Let’s get started!\nContact us"
+    "text": "10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.\nOur services include:"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
-    "section": "",
-    "text": "10mapz offers a range of courses designed to empower you with the knowledge and practical skills needed to explore, analyze, and visualize spatial data effectively. We provide both introductory and intermediate/advanced courses in two categories:\n\nData Visualization Foundations\nThese courses focus on broader concepts and techniques in data visualization and spatial analysis:\n\nIntroduction to Data Visualization: Learn the fundamental principles of effective data visualization, regardless of the tools used. (On demand)\nSpatial Data Visualization: Explore the specific techniques and considerations for visualizing spatial data, including cartographic principles and map design. (On demand)\nSpatial Data Science: Dive deeper into the world of spatial data science, covering topics like spatial analysis, geostatistics, and spatial modeling. (On demand)\n\n\n\nProgramming with R\nThese courses focus on using the R programming language for data analysis and visualization:\n\nIntroduction to R: Learn the fundamentals of R programming, including data structures, functions, and basic syntax. (On demand)\nData Visualization in R: Master the art of creating compelling visualizations in R, using packages like ggplot2. (On demand)\nSpatial Data Analysis in R: Explore and analyze spatial data using R, with a focus on techniques for mapping and spatial statistics. Scheduled 6-9 May 2025 at PRstats\n\nOur courses are designed to provide practical, hands-on experience to help you master data analysis and visualization tools and techniques.\nContact us to learn more about our courses or to discuss your training needs."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Need awesome maps? We turn your geospatial data into stunning visualizations that are perfect for exploring, analyzing, and communicating your findings."
-  },
-  {
-    "objectID": "index.html#we-love-mapping",
-    "href": "index.html#we-love-mapping",
-    "title": "Home",
-    "section": "",
-    "text": "Need awesome maps? We turn your geospatial data into stunning visualizations that are perfect for exploring, analyzing, and communicating your findings."
-  },
-  {
-    "objectID": "index.html#what-we-offer",
-    "href": "index.html#what-we-offer",
-    "title": "Home",
-    "section": "What we offer",
-    "text": "What we offer\nBeautiful maps High-quality, accessible maps for presentations, publications, and reports.\nInteractive maps & dashboards Explore your data dynamically and discover new insights.\nExpert analysis We help you understand your data through spatial analysis and visualization.\nReady to see your data come to life? Let’s make some magic!\nContact us"
+    "objectID": "services.html#training",
+    "href": "services.html#training",
+    "title": "Services",
+    "section": "Training",
+    "text": "Training\nInterested in learning spatial data visualization? We offer courses and workshops to help you get started.\nVisual Exploration, Analysis, and Presentation of Spatial Data using the tmap Package. (Scheduled 6-9 May 2025 at PRstats)\nContact us to learn more about our courses or to discuss your training needs."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Martijn Tennekes is a part-time freelancer, with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands where he contributed to several international research projects, was course leader for several courses organized by the European Commission (Eurostat). Martijn has a strong background in academics, in particular game theory, data visualization, spatial data, and statistical programming. He received his Ph. D in 2010 at Maastricht University and also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford. Martijn is the main author of several popular R packages, including tmap and cols4all.\n\n\n\nMartijn Tennekes\n\n\nIn his free time, Martijn enjoys playing guitar, doing outdoor sports, and spending time with his family."
+    "text": "Martijn Tennekes is a part-time freelancer with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands, where he has contributed to several international research projects and served as a course leader for training programs organized by the European Commission (Eurostat).\nAfter completing his Ph.D. in game theory at Maastricht University in 2010, he shifted his research focus to data science, in particular, data visualization, exploratory data analysis, and geospatial data. He has also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford.\nMartijn is passionate about open-source software and is the main author of several popular R packages, including tmap and cols4all, which are widely used by researchers and data visualization professionals worldwide.\n\n\n\n\n\nIn his free time, Martijn enjoys playing guitar, doing outdoor sports, and spending time with his family."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "10mapz offers a range of courses designed to empower you with the knowledge and practical skills needed to explore, analyze, and visualize spatial data effectively. We provide both introductory and intermediate/advanced courses, with a focus on hands-on learning and practical application.\n\nFundamentals of Spatial Data\nThese courses focus on broader concepts and techniques in data visualization and spatial analysis:\n\nIntroduction to Data Visualization: Learn the fundamental principles of effective data visualization, regardless of the tools used. (Available on demand)\nSpatial Data Visualization: Explore the specific techniques and considerations for visualizing spatial data, including cartographic principles and map design. (Available on demand)\nSpatial Data Science: Dive deeper into the world of spatial data science, covering topics like spatial analysis, geostatistics, and spatial modeling. (Available on demand)\n\n\n\nProgramming with R\nThese courses focus on using the R programming language for data analysis and visualization:\n\nIntroduction to R: Learn the fundamentals of R programming, including data structures, functions, and basic syntax. (Available on demand)\nData Visualization in R: Master the art of creating compelling visualizations in R, using packages like ggplot2. (Available on demand)\nSpatial Data Analysis in R: Explore and analyze spatial data using R, with a focus on techniques for mapping and spatial statistics. (Scheduled 6-9 May 2025 at PRstats)\n\nInterested in a specific course or have a group training request? Contact us to discuss your needs and explore potential training options."
+  },
+  {
+    "objectID": "index.html#we-love-mapping",
+    "href": "index.html#we-love-mapping",
+    "title": "Home",
+    "section": "We love mapping!",
+    "text": "We love mapping!\nWe turn your geospatial data into stunning maps that are perfect for exploring, analyzing, and communicating your findings."
+  },
+  {
+    "objectID": "index.html#what-we-offer",
+    "href": "index.html#what-we-offer",
+    "title": "Home",
+    "section": "What we offer",
+    "text": "What we offer\n\n\nPresentation & publication maps High-quality, accessible maps for presentations, publications, and reports.\n\n\nInteractive maps & dashboards Explore your data dynamically and discover new insights.\n\n\nExpert analysis We help you understand your data through spatial analysis and visualization.\n\n\nContact us"
+  },
+  {
+    "objectID": "gallery.html#africa",
+    "href": "gallery.html#africa",
+    "title": "Gallery",
+    "section": "Africa",
+    "text": "Africa\n\n\nNetherlands\n\n\n\nMore examples coming soon!"
   },
   {
     "objectID": "workshops.html",
