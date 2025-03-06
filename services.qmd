@@ -1,5 +1,6 @@
 ---
 title: Services
+toc: false # disable table of contents for this page (if applicable)
 about: 
   template: jolla 
   links: # create buttons
@@ -18,6 +19,8 @@ about:
       text: Email
       href: mailto:mtennekes@gmail.com
 ---
+
+:::{.justify-text}
 
 10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.
 
@@ -45,4 +48,4 @@ Interested in learning spatial data visualization? We offer courses and workshop
 
 [Contact us](mailto:mtenenekes@gmail.com?subject=10mapz - training) to learn more about our courses or to discuss your training needs.
 
-
+:::

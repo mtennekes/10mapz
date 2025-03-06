@@ -1,5 +1,6 @@
 ---
 title: "Gallery"
+toc: false # disable table of contents for this page (if applicable)
 editor_options: 
   chunk_output_type: console
 about: 
@@ -21,23 +22,27 @@ about:
       href: mailto:mtennekes@gmail.com
 ---
 
-## World
+:::{.justify-text}
+
+### World maps
 
 
 ![](gallery/choro_wld.png)
 
 ![](gallery/dorling.png)
 
-## Africa
+### Africa maps
 
 ![](gallery/choro_africa.png)
 
-### Netherlands 
+### Netherlands maps
+
+![](gallery/bubble_nld.png)
 
 ![](gallery/facets_choro.png)
 
 ![](gallery/facets_ncont.png)
 
-![](gallery/bubble_nld.png)
-
 More examples coming soon!
+
+:::

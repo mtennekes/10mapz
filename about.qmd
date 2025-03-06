@@ -1,5 +1,6 @@
 ---
 title: "About"
+toc: false # disable table of contents for this page (if applicable)
 about: 
   template: jolla 
   links: # create buttons
@@ -19,6 +20,8 @@ about:
       href: mailto:mtennekes@gmail.com
 ---
 
+:::{.justify-text}
+
 Martijn Tennekes is a part-time freelancer with 20 years of experience in teaching, academic research, and consulting. He is affiliated with Statistics Netherlands, where he has contributed to several international research projects and served as a course leader for training programs organized by the European Commission (Eurostat).
 
 After completing his Ph.D. in game theory at Maastricht University in 2010, he shifted his research focus to data science, in particular, data visualization, exploratory data analysis, and geospatial data. He has also collaborated extensively with other universities, including Eindhoven University, the University of Münster, and the University of Oxford.
@@ -28,3 +31,5 @@ Martijn is passionate about open-source software and is the main author of sever
 ![](MartijnTennekes2024.jpg){fig-alt="Martijn Tennekes" fig-align="center" width="400"}
 
 In his free time, Martijn enjoys playing [guitar](https://open.spotify.com/artist/1r0UM2CTI9nvqjsXN5ihNa), doing outdoor sports, and spending time with his family.
+
+:::
