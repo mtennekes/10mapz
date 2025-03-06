@@ -11,14 +11,14 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.\nOur services include:"
+    "text": "10mapz provides spatial data visualization services for research, government, and industry. We transform complex datasets into clear, compelling maps and interactive visualizations.\nOur services include:\n\n\nWe create high-quality, accessible maps tailored to your needs. Whether for presentations, publications, or reports, our maps are designed to communicate your spatial data effectively and with visual appeal. We focus on cartographic principles and best practices to ensure accuracy, clarity, and engagement.\n\n\n\nExplore your data dynamically with our interactive maps and dashboards. We develop custom solutions that allow you to zoom, pan, filter, and analyze your data in real-time. Our interactive visualizations help you uncover hidden patterns, gain new insights, and share your findings with others in an engaging way.\n\n\n\nWe offer expert support in spatial data analysis and visualization. Our team can help you with data cleaning, processing, analysis, and interpretation. We guide you through the process of turning raw data into meaningful insights and compelling visual stories.\nContact us to discuss your project and how we can help.\n\n\n\nInterested in learning spatial data visualization? We offer courses and workshops to help you get started.\nVisual Exploration, Analysis, and Presentation of Spatial Data using the tmap Package. (Scheduled 6-9 May 2025 at PRstats)\nContact us to learn more about our courses or to discuss your training needs."
   },
   {
     "objectID": "services.html#training",
     "href": "services.html#training",
     "title": "Services",
-    "section": "Training",
-    "text": "Training\nInterested in learning spatial data visualization? We offer courses and workshops to help you get started.\nVisual Exploration, Analysis, and Presentation of Spatial Data using the tmap Package. (Scheduled 6-9 May 2025 at PRstats)\nContact us to learn more about our courses or to discuss your training needs."
+    "section": "",
+    "text": "Interested in learning spatial data visualization? We offer courses and workshops to help you get started.\nVisual Exploration, Analysis, and Presentation of Spatial Data using the tmap Package. (Scheduled 6-9 May 2025 at PRstats)\nContact us to learn more about our courses or to discuss your training needs."
   },
   {
     "objectID": "about.html",
@@ -49,11 +49,11 @@
     "text": "What we offer\n\n\nPresentation & publication maps High-quality, accessible maps for presentations, publications, and reports.\n\n\nInteractive maps & dashboards Explore your data dynamically and discover new insights.\n\n\nExpert analysis We help you understand your data through spatial analysis and visualization.\n\n\nContact us"
   },
   {
-    "objectID": "gallery.html#africa",
-    "href": "gallery.html#africa",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
     "title": "Gallery",
-    "section": "Africa",
-    "text": "Africa\n\n\nNetherlands\n\n\n\nMore examples coming soon!"
+    "section": "",
+    "text": "World maps\n\n\n\n\nAfrica maps\n\n\n\nNetherlands maps\n\n\n\nMore examples coming soon!"
   },
   {
     "objectID": "workshops.html",
